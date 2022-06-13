@@ -1,7 +1,7 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][https://github.com/aryafikriii]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/arya-fikriansyah/]
+[![Contributors][contributors-shield][https://github.com/aryafikriii]
+[![LinkedIn][linkedin-shield][https://www.linkedin.com/in/arya-fikriansyah/]
 
 
 
