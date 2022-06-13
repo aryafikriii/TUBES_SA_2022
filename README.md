@@ -2,12 +2,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <div id="top"></div>
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="[https://github.com/aryafikriii/TUBES_SA_2022]">
-  </a>
-
 <h3 align="center">15-Puzzle Solver using Branch and Bound & Brute Force</h3>
 
   <p align="center">
