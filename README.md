@@ -8,7 +8,7 @@
   <a href="[https://github.com/aryafikriii/TUBES_SA_2022]">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">15-Puzzle Solver using Branch and Bound & Brute Force</h3>
 
   <p align="center">
     project_description
@@ -47,9 +47,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Tugas Besar Mata Kuliah Strategi Algoritma.
+Pada tugas besar kali ini kami memilih studi kasus 15-puzzle 
+Kami akan membuat program 15-puzzle solver dengan bahasa pemrograman python untuk 
+Kami menggunakan algoritma Branch and Bound dan Brute Force Breadth first search
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -88,7 +89,7 @@ Tugas Besar Mata Kuliah Strategi Algoritma TA 2021/2022
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/@kaIopsia___) - aryafikriansyah@gmail.com
+Arya Fikriansyah - [@kalopsia___](https://twitter.com/@kaIopsia___) - aryafikriansyah@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/aryafikriii/TUBES_SA_2022)
 
