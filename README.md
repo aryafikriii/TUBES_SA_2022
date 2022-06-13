@@ -85,7 +85,7 @@ Program ini akan menyelesaikan 15-Puzzle dengan algoritma Branch and Bound dan B
 
 Arya Fikriansyah - [@kalopsia___](https://twitter.com/@kaIopsia___) - aryafikriansyah@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/aryafikriii/TUBES_SA_2022)
+Project Link: [https://github.com/aryafikriii/TUBES_SA_2022](https://github.com/aryafikriii/TUBES_SA_2022)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
