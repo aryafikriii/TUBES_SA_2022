@@ -32,7 +32,7 @@
         <li><a href="#how-to-run">How to Run </a></li>
       </ul>
     </li>
-    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contact-contributors">Contact Contributors</a></li>
   </ol>
 </details>
 
@@ -81,7 +81,7 @@ Program ini akan menyelesaikan 15-Puzzle dengan algoritma Branch and Bound dan B
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
-## Contact
+## Contact Contributors
 
 Arya Fikriansyah - [@kalopsia___](https://twitter.com/@kaIopsia___) - 1301204066
 
