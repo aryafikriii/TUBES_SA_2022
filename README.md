@@ -5,7 +5,7 @@
 <h3 align="center">15-Puzzle Solver using Branch and Bound & Brute Force</h3>
 
   <p align="center">
-    project_description
+    Tugas Besar Mata Kuliah Strategi Algoritma TA 2021/2022
     <br />
     <a href="https://github.com/aryafikriii/TUBES_SA_2022"><strong>Explore the docs »</strong></a>
     <br />
@@ -61,7 +61,7 @@ Kami menggunakan algoritma Branch and Bound dan Brute Force Breadth first search
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Tugas Besar Mata Kuliah Strategi Algoritma TA 2021/2022
+Program ini akan menyelesaikan 15-Puzzle dengan algoritma Branch and Bound dan Brute Force Breadth first search.
 
 ### Prerequisites
 
