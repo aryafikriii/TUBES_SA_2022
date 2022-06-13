@@ -70,12 +70,12 @@ Program ini akan menyelesaikan 15-Puzzle dengan algoritma Branch and Bound dan B
 ### How to Run 
 ### 15-Puzzle Solver using Breadth First Search
 1. Open 1301204066_15-Puzzle BF.py
-2. Edit line 248 to enter the instance puzzle
+2. Edit line 248 to input the instance puzzle
 3. Run
 
 ### 15-Puzzle Solver using Branch and Bound
 1. Open 1301204066_15-Puzzle Bnb.py
-2. Edit line 160 to enter the instance puzzle
+2. Edit line 160 to input the instance puzzle
 3. Run
 
 <p align="right">(<a href="#top">back to top</a>)</p>
