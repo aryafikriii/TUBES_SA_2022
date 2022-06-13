@@ -7,7 +7,7 @@
   <p align="center">
     Tugas Besar Mata Kuliah Strategi Algoritma TA 2021/2022
     <br />
-    <a href="https://github.com/aryafikriii/TUBES_SA_2022"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/document/d/15kkwD-dXL-ktN4NCAde2Pi3BmHzrEasb2EjXhZ7-QEM/edit?usp=sharing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
