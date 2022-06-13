@@ -90,7 +90,7 @@ Project Link: [https://github.com/aryafikriii/TUBES_SA_2022](https://github.com/
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/aryafikriii/TUBES_SA_2022
+[contributors-url]: https://github.com/aryafikriii/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/arya-fikriansyah/
 
