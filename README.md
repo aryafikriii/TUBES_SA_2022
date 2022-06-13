@@ -1,14 +1,9 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield][https://github.com/aryafikriii]
-[![LinkedIn][linkedin-shield][https://www.linkedin.com/in/arya-fikriansyah/]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="[https://github.com/aryafikriii/TUBES_SA_2022]">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
