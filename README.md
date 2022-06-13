@@ -1,11 +1,7 @@
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][https://github.com/aryafikriii]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/arya-fikriansyah/]
 
 
 
@@ -71,7 +67,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 ### Built With
 
 * [Python 3](https://www.python.org/)
-* 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
